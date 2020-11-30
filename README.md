@@ -6,7 +6,8 @@ Installation:
 - pip install bar_chart_race
 - conda install -c conda-forge bar_chart_race
 
-I have uploaded two files 
+I have uploaded two files:
+
 1)Code link -  
 https://github.com/Dharmesh007/Covid19-Deaths-Animated-race-bar-chart/blob/main/Covid-19%20Deaths%20Animated%20Race%20Bar%20chart%20in%20Python.ipynb
 
